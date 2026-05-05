@@ -1,0 +1,15 @@
+
+Topic: sql
+Choice: 1
+Explain sql in 3 short notes.
+------------------------------
+
+Topic: SQL joins
+Choice: 2
+Give a 3-line summary of SQL joins.
+------------------------------
+
+Topic: SQL joins
+Choice: 1
+Explain SQL joins in 3 short notes.
+------------------------------
