@@ -1,3 +1,5 @@
+print("=== AI Study Assistant ===")
+
 while True:
     topic = input("\nEnter topic: ")
 
@@ -31,4 +33,3 @@ while True:
         file.write(f"Choice: {choice}\n")
         file.write(prompt + "\n")
         file.write("-" * 30 + "\n")
-    
